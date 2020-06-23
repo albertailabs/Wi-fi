@@ -24,14 +24,20 @@
   
 ![albert AI wifi](./images/albert03.png)
 
-  
+ 
+ 
+ 
   - 알버트AI 를 선택한 후 화면의 안내대로 기기 연결과 와이파이를 설정합니다.
   
 ![albert AI wifi](./images/albert04.png)
   
+  
+  
   - Wi-Fi 가 연결되면 알버트AI 의 튜토리얼이 나오며, 시작하기 버튼을 눌러 서비스를 이용하실 수 있습니다.
   
 ![albert AI wifi](./images/albert05.png)
+  
+  
   
   
  Wi-fi 변경하기
