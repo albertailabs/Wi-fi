@@ -5,18 +5,34 @@
 
 - 알버트AI 연결대기 상태 만들기 1
   - 디바이스 전원을 켜고 부팅이 완료되면, 디바이스의 + - 버튼을 동시에 3초 이상 눌러주세요.
+  
+![albert AI wifi](./images/albert01.png)
+
 
 - 알버트AI 연결대기 상태 만들기 2
   - 알버트AI 연결대기 상태 만들기 1 방법 말고도 연결 대기 상태 만드는 방법이 있습니다.
   - 디바이스와 함께 제공된 ‘NUGU 연결하기’카드를 인식센서 밑에 밀어 넣어줍니다.
+  
+![albert AI wifi](./images/albert02.png)
+
   
   
  NUGU 앱 설정
  --
   
   - NUGU 앱의 설정 > 디바이스 설정 메뉴에서 새 디바이스 추가하기를 선택해주세요.
+  
+![albert AI wifi](./images/albert03.png)
+
+  
   - 알버트AI 를 선택한 후 화면의 안내대로 기기 연결과 와이파이를 설정합니다.
+  
+![albert AI wifi](./images/albert04.png)
+  
   - Wi-Fi 가 연결되면 알버트AI 의 튜토리얼이 나오며, 시작하기 버튼을 눌러 서비스를 이용하실 수 있습니다.
+  
+![albert AI wifi](./images/albert05.png)
+  
   
  Wi-fi 변경하기
  --
