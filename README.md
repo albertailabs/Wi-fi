@@ -1,7 +1,5 @@
 # albert AI Wifi 연결(변경)하기 
 
-[![albertAI](http://img.youtube.com/vi/D0hg2xI_yqs/0.jpg)](https://youtu.be/D0hg2xI_yqs)
-
 초기설정
 --
 
